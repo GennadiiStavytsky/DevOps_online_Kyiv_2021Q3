@@ -1,0 +1,1 @@
+In practice, the best DevOps processes and cultures extend beyond development and operations to incorporate inputs from all application stakeholders - including platform and infrastructure engineering, security, compliance, governance, risk management, line-of-business, end-users and customers - into the software development lifecycle.
