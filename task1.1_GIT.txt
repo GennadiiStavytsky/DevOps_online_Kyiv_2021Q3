@@ -1,0 +1,12 @@
+(base) gennadiistavytskyi@MacBook-Pro DevOps_online_Kyiv_2021Q3 % git reflog
+cadf395 (HEAD -> master, origin/master, origin/images, images) HEAD@{0}: merge images: Fast-forward
+9c30f51 (origin/styles, origin/develop, styles, develop) HEAD@{1}: merge develop: Fast-forward
+0e7436f HEAD@{2}: checkout: moving from styles to master
+9c30f51 (origin/styles, origin/develop, styles, develop) HEAD@{3}: checkout: moving from develop to styles
+9c30f51 (origin/styles, origin/develop, styles, develop) HEAD@{4}: checkout: moving from images to develop
+cadf395 (HEAD -> master, origin/master, origin/images, images) HEAD@{5}: commit: index links
+2513423 HEAD@{6}: commit: images
+9c30f51 (origin/styles, origin/develop, styles, develop) HEAD@{7}: checkout: moving from develop to images
+9c30f51 (origin/styles, origin/develop, styles, develop) HEAD@{8}: commit: add file index.html
+0e7436f HEAD@{9}: checkout: moving from master to develop
+0e7436f HEAD@{10}: commit (initial): create empty file readme.txt
